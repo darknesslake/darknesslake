@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning Python & React Native
+- 🌱 I’m currently learning Mobile Dev(React Native)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: vabcax@gmail.com
 
