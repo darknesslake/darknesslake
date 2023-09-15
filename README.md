@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning ML (PyTorch)
+- 🌱 I’m currently learning ML
 - 📫 How to reach me: vabcax@gmail.com
 
 <!---
