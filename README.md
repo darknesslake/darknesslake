@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in AI and GameDev
-- 🌱 I’m currently learning ML + Data Science
+- 👀 I’m interested in AI
 - 📫 How to reach me: vabcax@gmail.com
 
 <!---
