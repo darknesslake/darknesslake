@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Denis
 - 👀 I’m interested in AI
-- 📫 How to reach me: vabcax@gmail.com
+- 📫 How to contact me: vabcax@gmail.com
 
 <!---
 darknesslake/darknesslake is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
