@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Denis
-- 👀 I’m interested in AI
+- 👀 I’m interested in Penetration Testing | Cybersecurity 🦋
 - 📫 How to contact me: vabcax@gmail.com
 
 <!---
