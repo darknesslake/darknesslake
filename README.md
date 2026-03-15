@@ -1,6 +1,6 @@
 # Hi, I’m Denis 👋
 
-I am a Mobile Developer who transitioned from the complex world of aviation fuel logistics. Managing strict physical supply chains taught me how to handle heavy constraints and optimize processes—skills I now apply to mobile architecture and state management.
+I am a Mobile Developer who transitioned from the complex world of aviation fuel logistics. Managing strict physical supply chains taught me how to handle heavy constraints and optimize processes-skills I now apply to mobile architecture and state management.
 
 ## 🚀 Current Focus
 I'm actively building **Clean Living**, a blazing-fast fitness and lifestyle tracking app. 
