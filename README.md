@@ -12,25 +12,25 @@
 
 ## 🧑‍💻 About Me
 
-Специалист по интеграции AI, мобильный разработчик и эксперт в области критической инфраструктуры.
+AI integration specialist, mobile developer, and critical infrastructure expert.
 
 > 🔭 Currently focused on integrating **Large Language Models (LLMs)** and **Computer Vision** into mobile environments.
 
 ---
 
-## 🛠 Технические навыки
+## 🛠 Technical Skills
 
-### 🤖 AI & Автоматизация (Vibe Coding)
+### 🤖 AI & Automation (Vibe Coding)
 
 | | Details |
 |:---|:---|
-| **Инструменты** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-6E44FF?style=flat-square&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
-| **Архитектура** | Настройка гибридных AI-агентов, автоматизация контент-планов для Telegram, работа с базами данных через Google Sheets API |
-| **Self-hosting** | Развертывание n8n и других сервисов на собственных серверах с использованием Nginx Proxy Manager и SSL (Let's Encrypt) |
+| **Tools** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-6E44FF?style=flat-square&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) |
+| **Architecture** | Hybrid AI agent orchestration, Telegram content plan automation, database management via Google Sheets API |
+| **Self-hosting** | Deploying n8n and other services on self-hosted servers using Nginx Proxy Manager and SSL (Let's Encrypt) |
 
 ---
 
-### 📱 Разработка
+### 📱 Development
 
 | | Details |
 |:---|:---|
@@ -40,27 +40,27 @@
 
 ---
 
-### 🖥 Системное администрирование
+### 🖥 System Administration
 
 | | Details |
 |:---|:---|
-| **ОС** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
-| **Сети** | TCP/IP, настройка прокси-серверов, обслуживание периферийного оборудования |
-| **Инфраструктура** | ![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Опыт** | 🏢 Опыт работы на критической инфраструктуре (системное администрирование) |
+| **OS** | ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
+| **Networking** | TCP/IP, proxy server configuration, peripheral equipment maintenance |
+| **Infrastructure** | ![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-009639?style=flat-square&logo=nginx&logoColor=white) ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| **Experience** | 🏢 Hands-on experience in critical infrastructure (system administration) |
 
 ---
 
-## 🚀 Проекты
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🏋️‍♂️ Clean Living AI App
-> Разработка MVP habit-tracker приложения с использованием Vibe Coding
+> MVP habit-tracker app built with Vibe Coding
 
-Персонализированная генерация тренировок через Claude API и анализ техники упражнений в реальном времени
+Personalized workout generation via Claude API and real-time exercise technique analysis
 
 `React Native` · `TypeScript` · `Expo` · `Firebase` · `Claude API`
 
@@ -68,9 +68,9 @@
 <td width="50%">
 
 ### 🤖 AI Content Agent
-> Автоматизированная система сбора и рерайта IT-новостей для Telegram-канала
+> Automated IT news aggregation and rewriting system for a Telegram channel
 
-Полный цикл: парсинг → обработка LLM → публикация. Развернуто на собственном сервере через n8n.
+Full pipeline: parsing → LLM processing → publishing. Self-hosted via n8n.
 
 `n8n` · `Docker` · `Claude API` · `Python` · `Telegram Bot API`
 
@@ -80,9 +80,9 @@
 <td width="50%">
 
 ### 📹 VSaaS Platform
-> Проектирование гибридной архитектуры для B2B видеоаналитики
+> Hybrid architecture design for B2B video analytics
 
-Система видеонаблюдения с компьютерным зрением, детекцией нарушений и уведомлениями в Telegram.
+Video surveillance system with computer vision, violation detection, and Telegram notifications.
 
 `Python` · `OpenCV` · `PostgreSQL` · `Docker` · `Telegram Bot API`
 
@@ -90,9 +90,9 @@
 <td width="50%">
 
 ### 🚌 Avtobys Clone
-> Функциональный клон популярного транспортного приложения
+> Functional clone of a popular transit application
 
-Сложная мобильная навигация, адаптивная UI/UX архитектура и интерактивные компоненты.
+Complex mobile navigation, adaptive UI/UX architecture, and interactive components.
 
 `React Native` · `TypeScript` · `Expo`
 
