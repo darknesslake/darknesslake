@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Denis Ponomarenko 👋
+# Hi there, I'm Denis 👋
 
 ### AI Automation Engineer | Mobile Developer | Critical Infrastructure Expert
 
